@@ -6,23 +6,28 @@ const routes = [
   },
   {
     label: 'About',
-    path: '/about',
+    path: '/NotFound',
+    // path: '/about',
   },
   {
     label: 'Resume',
-    path: '/resume',
+    path: '/NotFound',
+    // path: '/resume',
   },
   {
     label: 'Projects',
-    path: '/projects',
+    path: '/NotFound',
+    // path: '/projects',
   },
   {
     label: 'Stats',
-    path: '/stats',
+    path: '/NotFound',
+    // path: '/stats',
   },
   {
     label: 'Contact',
-    path: '/contact',
+    path: '/NotFound',
+    // path: '/contact',
   },
 ];
 
