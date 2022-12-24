@@ -1,8 +1,10 @@
 import React, { Suspense, lazy } from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import ReactGA from 'react-ga';
 import Main from './layouts/Main'; // fallback for lazy pages
 import './static/css/main.scss'; // All of our styles
 
+const TRACKING_ID = 'G-7310ZS0WNP'; // OUR_TRACKING_ID
 const { PUBLIC_URL } = process.env;
 
 // Every route - we lazy load so that each page can be chunked
@@ -32,4 +34,5 @@ const App = () => (
   </BrowserRouter>
 );
 
+ReactGA.initialize(TRACKING_ID);
 export default App;
