@@ -6,27 +6,27 @@ const routes = [
   },
   {
     label: 'About',
-    path: '/NotFound',
+    path: '/about',
     // path: '/about',
   },
   {
     label: 'Resume',
-    path: '/NotFound',
+    path: '/resume',
     // path: '/resume',
   },
   {
     label: 'Projects',
-    path: '/NotFound',
+    path: '/projects',
     // path: '/projects',
   },
   {
     label: 'Stats',
-    path: '/NotFound',
+    path: '/stats',
     // path: '/stats',
   },
   {
     label: 'Contact',
-    path: '/NotFound',
+    path: '/contact',
     // path: '/contact',
   },
 ];
