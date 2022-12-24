@@ -6,7 +6,7 @@ const courses = [
     university: 'Carnegie Mellon University',
   },
   {
-    title: 'Introduction to Maching Learning',
+    title: 'Introduction to Machine Learning',
     number: '10315',
     link: 'https://www.cs.cmu.edu/~10315-s20/',
     university: 'Carnegie Mellon University',
