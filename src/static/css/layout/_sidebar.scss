@@ -7,10 +7,11 @@
 /* Sidebar */
 
 	#sidebar {
+		z-index: 1;
 		margin-right: _size(section-spacing);
 		min-width: 22em;
 		width: 22em;
-
+		
 		> * {
 			border-top: solid 1px _palette(border);
 			margin: _size(section-spacing) 0 0 0;
@@ -22,6 +23,7 @@
 			margin-top: 0;
 			padding-top: 0;
 		}
+		  
 
 		@include breakpoint(large) {
 			border-top: solid 1px _palette(border);

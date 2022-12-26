@@ -19,7 +19,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Steven. I like building things.
+      <p className="large-paragraph">Hi, I&apos;m Steven. I like building things.
         I am a <a href="https://www.cs.cmu.edu/">Carnegie Mellon</a> student studying Computer Science
         I am currently a SDE Intern at <a href="https://www.amazon.com/">Amazon</a>, and before Amazon
         I was at <a href="https://www.optum.com//">Optum</a>
