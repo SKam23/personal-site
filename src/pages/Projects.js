@@ -18,6 +18,11 @@ const Projects = () => (
           <p>A selection of projects that I&apos;m not too ashamed of</p>
         </div>
       </header>
+      {/* remove when done, start: */}
+      <header>
+        <h2>Page is work in progress</h2>
+      </header>
+      {/* remove when done, end */}
       {data.map((project) => (
         <Cell
           data={project}

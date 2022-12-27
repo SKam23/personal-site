@@ -18,7 +18,7 @@ const LinkRenderer = ({ ...children }) => <Link {...children} />;
 const About = () => (
   <Main
     title="About"
-    description="Learn about Michael D'Angelo"
+    description="Learn about Steven Kam"
   >
     <article className="post markdown" id="about">
       <header>
@@ -27,8 +27,13 @@ const About = () => (
           <p>(in about {count} words)</p>
         </div>
       </header>
+      {/* remove when done, start: */}
+      <header>
+        <h2 style={{ textAlign: 'center' }}>Page is work in progress</h2>
+      </header>
+      {/* remove when done, end */}
       <ReactMarkdown
-        source={markdown}
+        source=""
         renderers={{
           Link: LinkRenderer,
         }}

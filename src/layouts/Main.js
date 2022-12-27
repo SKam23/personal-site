@@ -20,7 +20,7 @@ const Main = (props) => (
       <div id="main">
         {props.children}
       </div>
-      {props.fullPage ? null : <SideBar />}
+      {props.fullPage ? null : <SideBar style={{ zIndex: 1 }} />}
     </div>
   </HelmetProvider>
 );
