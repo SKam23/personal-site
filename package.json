@@ -26,6 +26,7 @@
     "@fortawesome/react-fontawesome": "0.1.18",
     "dayjs": "^1.11.3",
     "gh-pages": "^4.0.0",
+    "particles.js": "^2.0.0",
     "prop-types": "^15.8.1",
     "raw.macro": "^0.4.2",
     "react": "^17.0.1",
