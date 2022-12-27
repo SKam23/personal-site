@@ -27,13 +27,8 @@ const About = () => (
           <p>(in about {count} words)</p>
         </div>
       </header>
-      {/* remove when done, start: */}
-      <header>
-        <h2 style={{ textAlign: 'center' }}>Page is work in progress</h2>
-      </header>
-      {/* remove when done, end */}
       <ReactMarkdown
-        source=""
+        source={markdown}
         renderers={{
           Link: LinkRenderer,
         }}

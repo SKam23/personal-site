@@ -19,7 +19,11 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p className="large-paragraph">Hi, I&apos;m Steven. I like building things.
+      <p className="large-paragraph">
+        Hi, I&apos;m Steven. I like building things. I am a Computer Science student
+        at <a href="https://www.cs.cmu.edu/">Carnegie Mellon University</a>.
+        I have a passion for building things and using technology to solve problems.
+        {/* Hi, I&apos;m Steven. I like building things.
         I am a <a href="https://www.cs.cmu.edu/">Carnegie Mellon</a> student studying Computer Science
         I am currently a SDE Intern at <a href="https://www.amazon.com/">Amazon</a>, and before Amazon
         I was at <a href="https://www.optum.com//">Optum</a>
@@ -28,7 +32,7 @@ const SideBar = () => (
         I have always been fascinated by the power of technology to solve problems and make
         a positive impact on the world. In my studies, I have learned a wide range of programming
         languages and technologies, and I am constantly seeking out new challenges and opportunities
-        to expand my skills and knowledge.
+        to expand my skills and knowledge. */}
       </p>
       <ul className="actions">
         <li>
