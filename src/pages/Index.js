@@ -8,7 +8,9 @@ const Index = () => (
   <Main
     description={"Steven Kam's personal website."}
   >
-    <Particle />
+    <div className="particle">
+      <Particle />
+    </div>
     <div className="content">
       <article className="post" id="index">
         <header>
