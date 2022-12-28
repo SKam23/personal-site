@@ -9,7 +9,7 @@ import data from '../data/projects';
 const Projects = () => (
   <Main
     title="Projects"
-    description="Learn about Michael D'Angelo's projects."
+    description="Learn about Steven Kam's projects."
   >
     <article className="post" id="projects">
       <header>
@@ -19,9 +19,9 @@ const Projects = () => (
         </div>
       </header>
       {/* remove when done, start: */}
-      <header>
+      {/* <header>
         <h2>Page is work in progress</h2>
-      </header>
+      </header> */}
       {/* remove when done, end */}
       {data.map((project) => (
         <Cell

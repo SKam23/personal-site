@@ -22,7 +22,7 @@ I am an incoming SDE intern at Amazon in Seattle for the summer of 2023. Current
 My funny and unique education path:
 - Kindergarten in Beijing (3-6)
 - Traditional elementary school in Beijing (6)
-- Kindergarten in Pasadena, California, because I could speak English (7)
+- Kindergarten in Pasadena, California, because I couldn't speak English (7)
 - Montessori School of Beijing: I took English classes with kindergarteners but math with middle schoolers (supposed to be in 2nd grade) (7-8)
 - Traditional elementary school in Beijing (3rd grade) (8)
 - British School of Beijing: I learned some English before returning to America (9-10)

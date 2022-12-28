@@ -1,8 +1,8 @@
 const degrees = [
   {
     school: 'Carneige Mellon Univeristy',
-    degree: 'M.S. Computer Science',
-    link: 'https://stanford.edu',
+    degree: 'B.S. Computer Science',
+    link: 'https://www.cmu.edu/',
     year: 'Dec 2024',
   },
 ];
